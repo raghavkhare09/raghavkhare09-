@@ -1,4 +1,4 @@
-# raghavkhare09-# 💫 About Me:
+I am Raghav Khare 💫 About Me:
 I am currently a student at OCT, Bhopal (MP)<br>I am a Python learner<br>I study B.TECH in CS-AI & ML
 
 
