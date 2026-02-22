@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student at OCT, Bhopal (MP)<br>I am a Python learner<br>I study B.TECH in CS-AI & ML
+I am currently a student at OCT, Bhopal (MP)<br>I am a Python learner<br>I am doing B.tech in CS-AI & ML
 
 
 ## 🌐 Socials:
